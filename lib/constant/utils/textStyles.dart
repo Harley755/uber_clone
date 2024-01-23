@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:uber/constant/utils/colors.dart';
+import 'package:uber_clone/constant/utils/colors.dart';
 
 class AppTextStyles {
   static TextStyle authButtonTextStyle = TextStyle(

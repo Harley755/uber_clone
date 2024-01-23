@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uber/constant/utils/textStyles.dart';
+import 'package:uber_clone/constant/utils/textStyles.dart';
 
 class RiderHomeScreen extends StatefulWidget {
   const RiderHomeScreen({super.key});
@@ -15,7 +15,6 @@ class _RiderHomeScreenState extends State<RiderHomeScreen> {
       appBar: AppBar(
         title: Text(
           'User',
-          style: AppTextStyles.heading20Bold,
         ),
       ),
     );

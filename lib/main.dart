@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:uber/constant/utils/colors.dart';
-import 'package:uber/rider/view/homeScreen/riderHomeScreen.dart';
+import 'package:uber_clone/constant/utils/colors.dart';
+import 'package:uber_clone/rider/view/homeScreen/riderHomeScreen.dart';
 
 void main() {
   runApp(const Uber());
