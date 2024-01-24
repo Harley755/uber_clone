@@ -20,7 +20,7 @@ class _UberState extends State<Uber> {
       title: 'Flutter Demo',
       theme: ThemeData(
         appBarTheme: AppBarTheme(
-          color: whiteColor,
+          color: white,
           elevation: 0,
         ),
         // primarySwatch: Colors.blue,
